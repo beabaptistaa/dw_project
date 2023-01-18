@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dcdecc82.css",
+    "main.js": "/static/js/main.ab6c9f0d.js",
+    "static/js/787.fb87e90e.chunk.js": "/static/js/787.fb87e90e.chunk.js",
+    "static/media/Compagnon-Roman.woff": "/static/media/Compagnon-Roman.2e202d92e67550609b47.woff",
+    "static/media/Porpora-Regular.woff": "/static/media/Porpora-Regular.a92402a57dbc28ad2b14.woff",
+    "index.html": "/index.html",
+    "main.dcdecc82.css.map": "/static/css/main.dcdecc82.css.map",
+    "main.ab6c9f0d.js.map": "/static/js/main.ab6c9f0d.js.map",
+    "787.fb87e90e.chunk.js.map": "/static/js/787.fb87e90e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcdecc82.css",
+    "static/js/main.ab6c9f0d.js"
+  ]
+}
